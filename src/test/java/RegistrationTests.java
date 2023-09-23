@@ -11,7 +11,7 @@ public class RegistrationTests {
 
     @BeforeAll
     static void beforeAll() {
-        Configuration.holdBrowserOpen = true;
+//        Configuration.holdBrowserOpen = true;
         Configuration.pageLoadStrategy = "eager";
     }
 
