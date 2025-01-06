@@ -51,3 +51,6 @@ public class RegistrationTests {
 
     }
 }
+
+
+// тест комментарий в новой ветке
